@@ -1,5 +1,8 @@
 # JIET-Major-Test
 
-# [Ans1](https://github.com/Divyaanshmertia/JIET-Major-Test/blob/master/src/com/divyaansh/UglyString.java)
+#To Access the asnswers go To src/com/divyaansh/ or 
 
-# Ans 2: 
+# Access The Answers Directly
+ [Answer.1](https://github.com/Divyaanshmertia/JIET-Major-Test/blob/master/src/com/divyaansh/UglyString.java)
+
+ [Answer.2](https://github.com/Divyaanshmertia/JIET-Major-Test/blob/master/src/com/divyaansh/SameBase.java)
